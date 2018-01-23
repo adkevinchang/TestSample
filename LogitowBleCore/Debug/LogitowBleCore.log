@@ -1,0 +1,5 @@
+﻿  LogitowBleCore.cpp
+e:\svnadmin\developer\blewinsdk\logitowblejava\logitowblecore\logitowblecore\logitowblecore.cpp(1): fatal error C1083: 无法打开包括文件: “jni.h”: No such file or directory
+  LogitowBleControler.cpp
+  EventBus.cpp
+  正在生成代码...
